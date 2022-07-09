@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-09T09:42:52.703Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="rgUWplw6gN80kypvnNbD" version="20.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-09T09:46:10.344Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="vf-B_icJxQotXG10vKUE" version="20.0.4" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Auth">
     <mxGraphModel dx="1117" dy="1780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -117,7 +117,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GClWBlYYCjDaHEcEOuVD" name="Customer">
-    <mxGraphModel dx="2588" dy="951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1530" dy="372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -290,8 +290,8 @@
         <mxCell id="EmzBS0FwVL_dL8gMW1uw-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;strokeWidth=1;" edge="1" parent="1" source="EmzBS0FwVL_dL8gMW1uw-35" target="EmzBS0FwVL_dL8gMW1uw-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmzBS0FwVL_dL8gMW1uw-35" value="Menampilkan dialog &quot;Apakah anda yakin ingin menghapus &quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="995" y="420" width="120" height="50" as="geometry" />
+        <mxCell id="EmzBS0FwVL_dL8gMW1uw-35" value="Menampilkan dialog &quot;Apakah anda yakin ingin menghapus customer ini?&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="995" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EmzBS0FwVL_dL8gMW1uw-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;strokeWidth=1;" edge="1" parent="1" source="EmzBS0FwVL_dL8gMW1uw-36" target="EmzBS0FwVL_dL8gMW1uw-40">
           <mxGeometry relative="1" as="geometry" />
@@ -401,7 +401,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EgCcCmkZ49icOslRWSGj" name="Tim Produksi">
-    <mxGraphModel dx="2153" dy="2913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1595" dy="2608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -638,6 +638,57 @@
         </mxCell>
         <mxCell id="mnboD0y3Ktru6--02tjc-6" value="&lt;b style=&quot;font-size: 12px;&quot;&gt;(PENCARIAN GAJI BERDASAR INPUTAN)&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-420" y="-1087.5" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AMR_R1lhPi1BRipw00Xx-1" value="&lt;b&gt;DELETE TIM PRODUKSI&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="-1430" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AMR_R1lhPi1BRipw00Xx-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;strokeWidth=1;" edge="1" parent="1" source="AMR_R1lhPi1BRipw00Xx-3" target="AMR_R1lhPi1BRipw00Xx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AMR_R1lhPi1BRipw00Xx-3" value="Menampilkan halaman lihat tim produksi" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="-1370" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AMR_R1lhPi1BRipw00Xx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;strokeWidth=1;" edge="1" parent="1" source="AMR_R1lhPi1BRipw00Xx-5" target="AMR_R1lhPi1BRipw00Xx-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AMR_R1lhPi1BRipw00Xx-5" value="Pilih user" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="-1270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AMR_R1lhPi1BRipw00Xx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;strokeWidth=1;" edge="1" parent="1" source="AMR_R1lhPi1BRipw00Xx-7" target="AMR_R1lhPi1BRipw00Xx-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AMR_R1lhPi1BRipw00Xx-7" value="Menampilkan dialog &quot;Apakah anda yakin ingin menghapus user ini?&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="-1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AMR_R1lhPi1BRipw00Xx-8" value="True" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;strokeWidth=1;" edge="1" parent="1" source="AMR_R1lhPi1BRipw00Xx-11" target="AMR_R1lhPi1BRipw00Xx-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AMR_R1lhPi1BRipw00Xx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;strokeWidth=1;" edge="1" parent="1" source="AMR_R1lhPi1BRipw00Xx-11" target="AMR_R1lhPi1BRipw00Xx-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1435" y="-1030" />
+              <mxPoint x="1435" y="-1332" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AMR_R1lhPi1BRipw00Xx-10" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="AMR_R1lhPi1BRipw00Xx-9">
+          <mxGeometry x="-0.2034" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AMR_R1lhPi1BRipw00Xx-11" value="sure" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="-1060" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AMR_R1lhPi1BRipw00Xx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;strokeWidth=1;" edge="1" parent="1" source="AMR_R1lhPi1BRipw00Xx-13" target="AMR_R1lhPi1BRipw00Xx-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1485" y="-920" />
+              <mxPoint x="1485" y="-1357" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AMR_R1lhPi1BRipw00Xx-13" value="User&lt;br&gt;berhasil dihapus" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="-940" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
