@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-09T13:37:22.864Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="eYE_s_D3ZXI88e33_AeN" version="20.0.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-07-09T13:44:22.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="EFNBD6xLWxcf5LzXtbjn" version="20.0.4" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Auth">
     <mxGraphModel dx="1303" dy="1882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1313,7 +1313,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RYniyRncD8KflKYcbON3" name="Harga">
-    <mxGraphModel dx="1203" dy="2858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1564" dy="3056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1332,7 +1332,7 @@
         <mxCell id="4dfpE7WaFxqMk08kIATA-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sg1crDLAMkHMiqJ9z5m6-1" target="4dfpE7WaFxqMk08kIATA-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sg1crDLAMkHMiqJ9z5m6-1" value="Menampilkan halaman harga produk" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="sg1crDLAMkHMiqJ9z5m6-1" value="Menampilkan halaman lihat harga produk" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="995" y="-1770" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sg1crDLAMkHMiqJ9z5m6-3" value="DATA YANG DITAMPILKAN" style="swimlane;" vertex="1" parent="1">
@@ -1460,6 +1460,98 @@
         </mxCell>
         <mxCell id="gW17RWQgILgWdVCJoOKd-28" value="Menampilkan halaman lihat harga produk" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1405" y="-900" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gW17RWQgILgWdVCJoOKd-30" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;strokeWidth=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1850" y="-820" as="sourcePoint" />
+            <mxPoint x="1850" y="-1920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gW17RWQgILgWdVCJoOKd-31" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;UBAH HARGA PRODUK&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="2025" y="-1950" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gW17RWQgILgWdVCJoOKd-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gW17RWQgILgWdVCJoOKd-33" target="gW17RWQgILgWdVCJoOKd-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gW17RWQgILgWdVCJoOKd-33" value="Menampilkan halaman ubah harga produk" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="2075" y="-1700" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gW17RWQgILgWdVCJoOKd-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gW17RWQgILgWdVCJoOKd-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2135.0000000000005" y="-1490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gW17RWQgILgWdVCJoOKd-35" value="Inputan" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="2067.5" y="-1580" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gW17RWQgILgWdVCJoOKd-48" value="True" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gW17RWQgILgWdVCJoOKd-50" target="gW17RWQgILgWdVCJoOKd-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gW17RWQgILgWdVCJoOKd-56" value="False" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gW17RWQgILgWdVCJoOKd-50" target="gW17RWQgILgWdVCJoOKd-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gW17RWQgILgWdVCJoOKd-50" value="isNull" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2095" y="-1490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kpFPRd4ZRfJDi_flbcwN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="gW17RWQgILgWdVCJoOKd-51" target="gW17RWQgILgWdVCJoOKd-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2450" y="-1450" />
+              <mxPoint x="2450" y="-1862" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gW17RWQgILgWdVCJoOKd-51" value="Tidak ada data yang&lt;br&gt;diubah" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="-1470" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gW17RWQgILgWdVCJoOKd-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gW17RWQgILgWdVCJoOKd-53" target="gW17RWQgILgWdVCJoOKd-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2470" y="-1100" />
+              <mxPoint x="2470" y="-1875" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gW17RWQgILgWdVCJoOKd-53" value="Data harga produk&lt;br&gt;berhasil ditambahkan" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="2060" y="-1120" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gW17RWQgILgWdVCJoOKd-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gW17RWQgILgWdVCJoOKd-55" target="gW17RWQgILgWdVCJoOKd-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gW17RWQgILgWdVCJoOKd-55" value="Menampilkan dialog &quot;Apakah anda yakin ingin mengubah harga produk ini?&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="2075" y="-1360" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gW17RWQgILgWdVCJoOKd-59" value="True" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gW17RWQgILgWdVCJoOKd-57" target="gW17RWQgILgWdVCJoOKd-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kpFPRd4ZRfJDi_flbcwN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gW17RWQgILgWdVCJoOKd-57" target="gW17RWQgILgWdVCJoOKd-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2430" y="-1200" />
+              <mxPoint x="2430" y="-1675" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gW17RWQgILgWdVCJoOKd-57" value="sure" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2095" y="-1240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gW17RWQgILgWdVCJoOKd-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gW17RWQgILgWdVCJoOKd-61" target="gW17RWQgILgWdVCJoOKd-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gW17RWQgILgWdVCJoOKd-61" value="Menampilkan halaman lihat harga produk" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="2075" y="-1900" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gW17RWQgILgWdVCJoOKd-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gW17RWQgILgWdVCJoOKd-62" target="gW17RWQgILgWdVCJoOKd-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gW17RWQgILgWdVCJoOKd-62" value="Pilih produk" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="2067.5" y="-1790" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="my_C195bV8AXtRu0ClG0-1" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;strokeWidth=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2540" y="-830" as="sourcePoint" />
+            <mxPoint x="2540" y="-1930" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
