@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-09T14:27:26.143Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="lb5Z3qOpKLcrr3cJiZ9q" version="20.0.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-07-09T14:31:08.844Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="nrZx5AsKS5r0nWVMioaq" version="20.0.4" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Auth">
     <mxGraphModel dx="626" dy="1511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -129,7 +129,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GClWBlYYCjDaHEcEOuVD" name="Customer">
-    <mxGraphModel dx="2272" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -431,7 +431,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EgCcCmkZ49icOslRWSGj" name="Tim Produksi">
-    <mxGraphModel dx="2588" dy="3151" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1530" dy="2572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -736,7 +736,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dBjxwJICmLc96YoNn-rn" name="Produk">
-    <mxGraphModel dx="1564" dy="3056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="920" dy="2704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1677,11 +1677,29 @@
         <mxCell id="evdtkN3eZOFqQz1HJtvV-12" value="Produk berhasil dihapus" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="2760" y="-1470" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="hImaveHvMthPorewAaA8-1" value="KATEGORI HARGA" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="1575" y="-1550" width="200" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="hImaveHvMthPorewAaA8-5" value="1. Harga Agen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hImaveHvMthPorewAaA8-1">
+          <mxGeometry x="14" y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hImaveHvMthPorewAaA8-6" value="2. Harga Distributor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hImaveHvMthPorewAaA8-1">
+          <mxGeometry x="10" y="67" width="113" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="hImaveHvMthPorewAaA8-7" value="3. Reseller" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hImaveHvMthPorewAaA8-1">
+          <mxGeometry x="5" y="95" width="77" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hImaveHvMthPorewAaA8-8" value="4. Swalayan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hImaveHvMthPorewAaA8-1">
+          <mxGeometry x="10" y="125" width="77" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hImaveHvMthPorewAaA8-9" value="5. Konsumen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hImaveHvMthPorewAaA8-1">
+          <mxGeometry x="14" y="155" width="77" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="HHoS6x229obKnjyaESTx" name="Salesman">
-    <mxGraphModel dx="267" dy="2811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-68" dy="2628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1722,7 +1740,7 @@
           <mxGeometry x="1425" y="-1742.5" width="470" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_cHRFXQj-7Ly7m45TS2q-1" value="DATA YANG DITAMPILKAN" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="-1600" width="200" height="130" as="geometry" />
+          <mxGeometry x="1460" y="-1600" width="200" height="180" as="geometry" />
         </mxCell>
         <mxCell id="_cHRFXQj-7Ly7m45TS2q-2" value="1. Id salesman" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_cHRFXQj-7Ly7m45TS2q-1">
           <mxGeometry x="10" y="30" width="90" height="30" as="geometry" />
@@ -1732,6 +1750,9 @@
         </mxCell>
         <mxCell id="_cHRFXQj-7Ly7m45TS2q-4" value="3. Nama distributor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_cHRFXQj-7Ly7m45TS2q-1">
           <mxGeometry x="7" y="88" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QVFqpLScQCzzdOqz7FVS-14" value="5. Tanggal diubah" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_cHRFXQj-7Ly7m45TS2q-1">
+          <mxGeometry x="8" y="141" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GNOVl3B7hwPteFrVoe-h-1" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;strokeWidth=4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1924,6 +1945,9 @@
         </mxCell>
         <mxCell id="QVFqpLScQCzzdOqz7FVS-12" value="Salesman &lt;br&gt;berhasil dihapus" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="3717.5" y="-1450" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QVFqpLScQCzzdOqz7FVS-13" value="4. Tanggal ditambahkan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1468" y="-1486" width="142" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
