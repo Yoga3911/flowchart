@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-09T09:46:10.344Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="vf-B_icJxQotXG10vKUE" version="20.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-09T10:15:33.700Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="eE2nepMVkBBFiZwut82y" version="20.0.4" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Auth">
-    <mxGraphModel dx="1117" dy="1780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="978" dy="1704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -113,11 +113,23 @@
         <mxCell id="EoOxD-AQodD0eCFgC5P8-0" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;TABEL TIM PRODUKSI&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="-90" width="240" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="YPQqRRpX_kLQ4Uce9Hyc-0" value="ROLE USER" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="620" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YPQqRRpX_kLQ4Uce9Hyc-1" value="Admin" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=12;" vertex="1" parent="YPQqRRpX_kLQ4Uce9Hyc-0">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YPQqRRpX_kLQ4Uce9Hyc-2" value="Produksi" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=12;" vertex="1" parent="YPQqRRpX_kLQ4Uce9Hyc-0">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YPQqRRpX_kLQ4Uce9Hyc-3" value="Gudang" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=12;" vertex="1" parent="YPQqRRpX_kLQ4Uce9Hyc-0">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="GClWBlYYCjDaHEcEOuVD" name="Customer">
-    <mxGraphModel dx="1530" dy="372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2153" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -397,11 +409,29 @@
         <mxCell id="EmzBS0FwVL_dL8gMW1uw-86" value="&lt;b style=&quot;font-size: 12px;&quot;&gt;(PENCARIAN CUSTOMER BERDASAR INPUTAN)&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-840" y="380" width="300" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="YiXSrHhNtyemcugfcpTv-1" value="DATA YANG DITAMPILAKAN" style="swimlane;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="550" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="YiXSrHhNtyemcugfcpTv-2" value="- Kode Unik" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="YiXSrHhNtyemcugfcpTv-1">
+          <mxGeometry x="5" y="30" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YiXSrHhNtyemcugfcpTv-3" value="- Nama" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="YiXSrHhNtyemcugfcpTv-1">
+          <mxGeometry x="-5" y="60" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YiXSrHhNtyemcugfcpTv-4" value="- Alamat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="YiXSrHhNtyemcugfcpTv-1">
+          <mxGeometry x="-15" y="90" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YiXSrHhNtyemcugfcpTv-5" value="- No Telpon" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="YiXSrHhNtyemcugfcpTv-1">
+          <mxGeometry x="-5" y="120" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YiXSrHhNtyemcugfcpTv-6" value="- Kategori harga" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="YiXSrHhNtyemcugfcpTv-1">
+          <mxGeometry y="150" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="EgCcCmkZ49icOslRWSGj" name="Tim Produksi">
-    <mxGraphModel dx="1595" dy="2608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3084" dy="3423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -690,6 +720,31 @@
         <mxCell id="AMR_R1lhPi1BRipw00Xx-13" value="User&lt;br&gt;berhasil dihapus" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="-940" width="120" height="40" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="dBjxwJICmLc96YoNn-rn" name="Produk">
+    <mxGraphModel dx="602" dy="2529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kn5QuF1BL-YJNDJAgCvB-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;TABEL PRODUK&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="335" y="-2100" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kn5QuF1BL-YJNDJAgCvB-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;GET ALL PRODUCT&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-2040" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TQI6AsjvJ12ZOeaD0Ihg-1" value="Menampilkan halaman home" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="185" y="-1970" width="120" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="AaYUg1JIXXkaFghZ7RVP" name="Barang Baku">
+    <mxGraphModel dx="782" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
