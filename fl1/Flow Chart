@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-09T10:15:33.700Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="eE2nepMVkBBFiZwut82y" version="20.0.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-07-09T10:26:07.518Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="rnXvU6N5FXxTAe7Vb_4y" version="20.0.4" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Auth">
     <mxGraphModel dx="978" dy="1704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -735,7 +735,7 @@
           <mxGeometry x="140" y="-2040" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TQI6AsjvJ12ZOeaD0Ihg-1" value="Menampilkan halaman home" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="185" y="-1970" width="120" height="50" as="geometry" />
+          <mxGeometry x="180" y="-1990" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
