@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-09T13:09:29.913Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="bEwFjU3nis4zVR5s1tXg" version="20.0.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-07-09T13:10:19.319Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="OlDHimqNVqGnUeb-sUIz" version="20.0.4" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Auth">
     <mxGraphModel dx="782" dy="1597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -724,7 +724,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dBjxwJICmLc96YoNn-rn" name="Produk">
-    <mxGraphModel dx="434" dy="2438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="2628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -986,7 +986,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PjjzCdwbEmwcqUiYhuNQ-12" value="produk berhasil dihapus" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="PjjzCdwbEmwcqUiYhuNQ-12" value="Produk berhasil dihapus" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1960" y="-1540" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PjjzCdwbEmwcqUiYhuNQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;strokeWidth=1;" edge="1" parent="1" source="PjjzCdwbEmwcqUiYhuNQ-14" target="PjjzCdwbEmwcqUiYhuNQ-15">
@@ -1228,7 +1228,7 @@
         <mxCell id="GzPFLzJpUEQs4q2Xj1Eg-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;strokeWidth=1;" edge="1" parent="1" source="GzPFLzJpUEQs4q2Xj1Eg-61" target="GzPFLzJpUEQs4q2Xj1Eg-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzPFLzJpUEQs4q2Xj1Eg-61" value="Menampilkan halaman lihat produk" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="GzPFLzJpUEQs4q2Xj1Eg-61" value="Menampilkan halaman lihat bahan baku" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1960" y="-1970" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GzPFLzJpUEQs4q2Xj1Eg-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;strokeWidth=1;" edge="1" parent="1" source="GzPFLzJpUEQs4q2Xj1Eg-63" target="GzPFLzJpUEQs4q2Xj1Eg-65">
@@ -1240,7 +1240,7 @@
         <mxCell id="GzPFLzJpUEQs4q2Xj1Eg-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;strokeWidth=1;" edge="1" parent="1" source="GzPFLzJpUEQs4q2Xj1Eg-65" target="GzPFLzJpUEQs4q2Xj1Eg-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzPFLzJpUEQs4q2Xj1Eg-65" value="Menampilkan dialog &quot;Apakah anda yakin ingin menghapus produk ini?&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="GzPFLzJpUEQs4q2Xj1Eg-65" value="Menampilkan dialog &quot;Apakah anda yakin ingin menghapus bahan baku ini?&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1960" y="-1770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GzPFLzJpUEQs4q2Xj1Eg-66" value="True" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;strokeWidth=1;" edge="1" parent="1" source="GzPFLzJpUEQs4q2Xj1Eg-69" target="GzPFLzJpUEQs4q2Xj1Eg-71">
@@ -1270,8 +1270,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GzPFLzJpUEQs4q2Xj1Eg-71" value="produk berhasil dihapus" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1960" y="-1540" width="120" height="40" as="geometry" />
+        <mxCell id="GzPFLzJpUEQs4q2Xj1Eg-71" value="Bahan baku&amp;nbsp; berhasil dihapus" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="-1540" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GzPFLzJpUEQs4q2Xj1Eg-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;strokeWidth=1;" edge="1" parent="1" source="GzPFLzJpUEQs4q2Xj1Eg-73" target="GzPFLzJpUEQs4q2Xj1Eg-75">
           <mxGeometry relative="1" as="geometry" />
