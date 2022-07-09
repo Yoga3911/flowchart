@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-09T08:00:16.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="UMLaw8CnfbV-4Mzk-xfE" version="20.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-09T09:08:30.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="SzoPeU0Yl1LVVlYoDF1-" version="20.0.4" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Auth">
     <mxGraphModel dx="782" dy="1597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -533,6 +533,24 @@
             <mxPoint x="610" y="-620" as="sourcePoint" />
             <mxPoint x="610" y="-1410" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="G_svEaQ0Ti6ijaO912cf-2" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;strokeWidth=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="-630" as="sourcePoint" />
+            <mxPoint x="1120" y="-1420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G_svEaQ0Ti6ijaO912cf-3" value="DATA YANG DITAMPILKAN" style="swimlane;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="-1040" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="G_svEaQ0Ti6ijaO912cf-4" value="Tanggal diterima" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="G_svEaQ0Ti6ijaO912cf-3">
+          <mxGeometry x="10" y="30" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G_svEaQ0Ti6ijaO912cf-5" value="Masa kerja (dalam bulan)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="G_svEaQ0Ti6ijaO912cf-3">
+          <mxGeometry x="20" y="50" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G_svEaQ0Ti6ijaO912cf-6" value="Gaji pokok" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="G_svEaQ0Ti6ijaO912cf-3">
+          <mxGeometry x="20" y="70" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
